@@ -60,7 +60,7 @@ pip install pandas seaborn matplotlib scikit-learn
     cd titanic-survival-prediction
 3. Run the script:
     python titanic_survival_prediction.py
-## Results
+## Results:
 Accuracy: 0.8547486033519553
 Classification Report:
               precision    recall  f1-score   support
@@ -72,7 +72,7 @@ Classification Report:
    macro avg       0.85      0.84      0.84       179
 weighted avg       0.85      0.85      0.85       179
 
-## Contributing
+## Contributing:
 If you have any suggestions or improvements, feel free to create a pull request or open an issue.
 
 ## License
