@@ -51,9 +51,9 @@ To run this project, you need to have Python and the following libraries install
 
 You can install these libraries using pip:
 
-```bash
 pip install pandas seaborn matplotlib scikit-learn
 ## Usage
+
 1. Clone the repository:
     it clone https://github.com/your-username/titanic-survival-prediction.git
 2. Navigate to the project directory:
